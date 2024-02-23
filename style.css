@@ -1,4 +1,20 @@
 header{
-    background-color: aqua
+    background-color: black;
     color: aliceblue;
+}
+
+.cabecalho-imagem{
+
+    width: 20%;
+}
+
+.cabecalho{
+
+background-color: black;
+display: flex;
+}
+
+.cabecalho-lista-item{
+
+
 }
