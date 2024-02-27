@@ -1,3 +1,6 @@
+ body{
+    font-family: 'Poppins' , sans-serif;
+ }
 header{
     background-color: black;
     color: aliceblue;
@@ -12,9 +15,11 @@ header{
 
 background-color: black;
 display: flex;
+justify-content: space-around;
 }
 
 .cabecalho-lista-item{
 
+display: inline-block;
 
 }
